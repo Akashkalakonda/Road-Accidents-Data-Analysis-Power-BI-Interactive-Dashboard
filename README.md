@@ -20,7 +20,7 @@ This project presents a comprehensive analysis of road safety accident data usin
 - **Multi-variable Visualizations:**
   - Road Surface Conditions × Accident Severity × Weather Conditions
 
-##screen shots ---
+##Take a look👀
 
 <img width="1183" height="876" alt="image" src="https://github.com/user-attachments/assets/52c1b4a8-d160-409a-9e57-fac8dea4ae17" />
 
