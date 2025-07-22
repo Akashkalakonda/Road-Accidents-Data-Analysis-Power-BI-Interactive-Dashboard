@@ -1,6 +1,6 @@
 # Road-Accidents-Data-Analysis-Power-BI-Interactive-Dashboard
 
-# 🚧 Road Safety Accident Analysis Dashboard (Power BI)
+
 
 This project presents a comprehensive analysis of road safety accident data using Microsoft Power BI. It visualizes key insights about accident severity, weather conditions, road surfaces, junction types, and other contributing factors.
 
